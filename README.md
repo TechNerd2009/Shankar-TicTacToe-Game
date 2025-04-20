@@ -33,7 +33,7 @@ Shankar-TicTacToe-Game/
 │   ├── move_sound.wav       # 🔊 Sound for placing a mark
 │   ├── win_sound.wav        # 🎉 Sound for winning
 │   └── draw_sound.wav       # 🤝 Sound for a draw game
-├── index.html          # Main HTML structure for the game screens and elements
+├── index.html          # 📄 Main HTML structure for the game screens and elements
 └── README.md
 ```
 
